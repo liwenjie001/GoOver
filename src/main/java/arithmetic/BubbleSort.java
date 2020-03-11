@@ -7,6 +7,7 @@ import java.util.Arrays;
  * @ Author: Mr.Li
  * @ Date: 2020-03-10 11:32
  * @ Description:冒泡排序 要求时间复杂度在O(n^2) 空间复杂度在O(1)
+ * 要升序排序
  **/
 public class BubbleSort {
     public int[] bubbleSort(int[] ints){
@@ -21,6 +22,7 @@ public class BubbleSort {
                     temp = ints[j+1];
                     ints[j+1] = ints[j];
                     ints[j] = temp;
+                    flag = true;
                 }
 
             }
