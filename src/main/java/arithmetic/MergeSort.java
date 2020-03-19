@@ -35,7 +35,7 @@ public class MergeSort {
         int j = mid + 1;// 初始化 j, 右边有序序列的初始索引
         int t = 0; // 临时数组的初始索引
         // 1. 先把左右两边的有序序列按照填充规则填充到temp 数组当中去。
-        // 直到有一遍填充完了 在继续下面的事情
+        // 直到有一边填充完了 在继续下面的事情
         while (i <= mid && j <= right) { // 直到有一边到了头 就结束
             if (arr[i] <= arr[j]) {
                 temp[t] = arr[i];
