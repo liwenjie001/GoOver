@@ -1,10 +1,6 @@
-import scala.collection.mutable
-import scala.collection.mutable._
-import scala.util.control.Breaks
-
 /**
- * @ Author: Mr.Li 
- * @ Date: 2020-03-02 18:51 
+ * @ Author: Mr.Li
+ * @ Date: 2020-03-02 18:51
  * @ Description:Scala 基础语言
  **/
 object scalaBase {
