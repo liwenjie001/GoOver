@@ -1,6 +1,6 @@
 /**
- * @ Author: Mr.Li 
- * @ Date: 2020-03-04 14:08 
+ * @ Author: Mr.Li
+ * @ Date: 2020-03-04 14:08
  * @ Description: Ssala 提取器
  **/
 object Square {

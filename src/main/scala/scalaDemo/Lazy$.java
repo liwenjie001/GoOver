@@ -1,6 +1,6 @@
 /**
- * @ Author: Mr.Li 
- * @ Date: 2020-03-03 00:29 
+ * @ Author: Mr.Li
+ * @ Date: 2020-03-03 00:29
  * @ Description: TODO
  **/
 object Lazy {

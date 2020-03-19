@@ -1,6 +1,6 @@
 /**
- * @ Author: Mr.Li 
- * @ Date: 2020-03-04 15:09 
+ * @ Author: Mr.Li
+ * @ Date: 2020-03-04 15:09
  * @ Description: 模式匹配的样例
  **/
 object MatchDemo {

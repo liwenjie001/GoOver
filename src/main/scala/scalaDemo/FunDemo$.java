@@ -1,8 +1,6 @@
-import java.lang
-
 /**
- * @ Author: Mr.Li 
- * @ Date: 2020-03-04 16:53 
+ * @ Author: Mr.Li
+ * @ Date: 2020-03-04 16:53
  * @ Description: 高阶函数
  **/
 object FunDemo {

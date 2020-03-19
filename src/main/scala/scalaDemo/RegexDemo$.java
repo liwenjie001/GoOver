@@ -1,8 +1,6 @@
-import scala.util.matching.Regex
-
 /**
- * @ Author: Mr.Li 
- * @ Date: 2020-03-09 16:33 
+ * @ Author: Mr.Li
+ * @ Date: 2020-03-09 16:33
  * @ Description: 正则表达式
  **/
 object RegexDemo {

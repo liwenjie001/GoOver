@@ -1,8 +1,6 @@
-
-
 /**
- * @ Author: Mr.Li 
- * @ Date: 2020-03-04 14:38 
+ * @ Author: Mr.Li
+ * @ Date: 2020-03-04 14:38
  * @ Description: TODO
  **/
 object Names {
