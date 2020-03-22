@@ -15,7 +15,8 @@ object WordCountStreaming {
     val wordDStream: DStream[String] = socketLineStream.flatMap(line => line.split(" "))
     val mapDStream: DStream[(String, Int)] = wordDStream.map((_, 1))
     mapDStream.reduceByKey(_+_).print() // 统计完打印一下
-    streamingContext.start()
-    streamingContext.awaitTermination()
+    streamingContext.start() // 启动采集器
+    streamingContext.awaitTermination() // 等待采集器停止
+
   }
 }
